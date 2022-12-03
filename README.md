@@ -17,9 +17,7 @@ A script to manage the forwarding of tweets from Twitter accounts to a Mastodon 
 
 # Installation
 
-Using pip:
-
-    pip install t2m
+~~Using pip: pip install t2m~~
 
 Alternatively from source, on debian/ubuntu:
 
