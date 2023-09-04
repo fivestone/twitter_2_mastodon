@@ -1,3 +1,5 @@
+Update: This project seems nosense anymore while Twitter (now X) forbids users to get tweets via free API...
+
 # t2m - Twitter 2 Mastodon
 
 A script to manage the forwarding of tweets from Twitter accounts to a Mastodon one.
